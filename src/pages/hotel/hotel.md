@@ -1,0 +1,5 @@
+---
+templateKey: hotel
+title: test
+---
+
